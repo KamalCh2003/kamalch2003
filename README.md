@@ -52,27 +52,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
-###
 
-### 📂 My Projects
-
-#### 🎨 Frontend Projects
-- [**Portfolio Website**](#): Responsive portfolio website built using React and Tailwind CSS.
-- [**E-Commerce Store**](#): An online store with a modern UI, developed using Next.js and styled-components.
-
-#### 💻 Backend Projects
-- [**Blog API**](#): A RESTful API for managing blogs, built with Django and PostgreSQL.
-- [**Chat Application**](#): A real-time chat backend using Node.js and Socket.io.
-
-#### ✨ UI Design Projects
-- [**Mobile App Design**](#): A sleek mobile app design prototype created in Figma.
-- [**Landing Page**](#): A fully designed and functional landing page concept using Figma.
 
 ###
 
 ### 🌐 Connect with Me
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
